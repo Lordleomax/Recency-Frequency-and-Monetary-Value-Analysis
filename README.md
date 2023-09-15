@@ -1,4 +1,7 @@
 # Recency-Frequency-and-Monetary-Value-Analysis
+
+![RFM Analysis Dashboard](https://github.com/Lordleomax/Recency-Frequency-and-Monetary-Value-Analysis/assets/131598329/979cad28-25cc-4c98-8153-9fcecaf205c3)
+
 ## Overview
 RFM analysis is a valuable customer segmentation and profiling technique that empowers businesses to gain deeper insights into their customer base. It leverages three key factors:
 1. Recency (R): This metric assesses how recently a customer made a purchase, assigning higher scores to more recent transactions.
@@ -31,7 +34,7 @@ Create a pivot chart displaying the count of customers in each segment, includin
 8. Visualization and Analysis:
 Develop visualizations explaining each segment and incorporated key performance indicators (KPIs). Demographic values such as average age, income, number of children, and marital status will be included for the different customer segments to deepen the understanding of customer profiles.
 
-![RFM Analysis Dashboard](https://github.com/Lordleomax/Recency-Frequency-and-Monetary-Value-Analysis/assets/131598329/979cad28-25cc-4c98-8153-9fcecaf205c3)
+
 
 ## Dataset
 The project utilized a dataset from Kaggle comprising information on 2,240 customers, with each customer’s details organized in 27 columns. Noteworthy columns include customer ID, year of birth, education level, marital status, yearly household income, and various purchasing behaviours and preferences.
