@@ -8,7 +8,7 @@ RFM analysis is a valuable customer segmentation and profiling technique that em
 2. Frequency (F): It evaluates how often a customer makes purchases, granting higher scores to more frequent buyers.
 3. Monetary Value (M): This metric analyzes how much money a customer spends on purchases, favouring those who make higher-value transactions.
 
-##Business Case
+## Business Case
 This analysis aims to categorize its customers into six distinct segments based on their purchasing habits and engagement levels. This segmentation strategy would enable the company to tailor its marketing efforts effectively to each group. This comprehensive RFM analysis will enable NeighborMart to make informed decisions and refine its marketing strategies to maximize customer satisfaction and revenue.
 
 ## Methodology for RFM Analysis
